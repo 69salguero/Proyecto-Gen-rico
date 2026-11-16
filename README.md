@@ -5,7 +5,7 @@ Diseño, segmentación y simulación completa de la infraestructura informática
 **Autores:**
 * Alejandro Salguero Marín
 * Aaron Leonel Márquez Arteta
-* **Ciclo:** CFGM Sistemas Microinformáticos y Redes (SMX2B)
+* CFGM Sistemas Microinformáticos y Redes (SMX2B)
 
 ---
 
