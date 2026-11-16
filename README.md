@@ -18,13 +18,13 @@ El objetivo del proyecto es proporcionar al hospital una red moderna, segura y e
 
 | ID VLAN | Nombre | Departamento / Uso | Subred | Gateway | Rango de Hosts |
 | :---: | :--- | :--- | :--- | :--- | :--- |
-| **10** | Administración | Gestión interna[cite: 11] | `10.10.10.0/24`[cite: 12] | `10.10.10.1`[cite: 12] | `10.10.10.2 - 254`[cite: 12] |
-| **20** | Médicos | Terminales médicos[cite: 11] | `10.10.20.0/24`[cite: 12] | `10.10.20.1`[cite: 12] | `10.10.20.2 - 254`[cite: 12] |
-| **30** | Enfermería | Estaciones de control[cite: 11] | `10.10.30.0/24`[cite: 12] | `10.10.30.1`[cite: 12] | `10.10.30.2 - 254`[cite: 12] |
-| **40** | Recepción | Atención al público[cite: 11] | `10.10.40.0/24`[cite: 12] | `10.10.40.1`[cite: 12] | `10.10.40.2 - 254`[cite: 12] |
-| **50** | Equipos médicos | Aparatología conectada[cite: 11] | `10.10.50.0/24`[cite: 12] | `10.10.50.1`[cite: 12] | `10.10.50.2 - 254`[cite: 12] |
-| **60** | Invitados | Wi-Fi visitantes (Solo Internet)[cite: 7, 11] | `10.10.60.0/24`[cite: 12] | `10.10.60.1`[cite: 12] | `10.10.60.2 - 254`[cite: 12] |
-| **70** | Servidores | Servicios centralizados[cite: 11] | `10.10.70.0/24`[cite: 12] | `10.10.70.1`[cite: 12] | `10.10.70.2 - 254`[cite: 12] |
+| **10** | Administración | Gestión interna | `10.10.10.0/24` | `10.10.10.1` | `10.10.10.2 - 254` |
+| **20** | Médicos | Terminales médicos | `10.10.20.0/24` | `10.10.20.1` | `10.10.20.2 - 254` |
+| **30** | Enfermería | Estaciones de control | `10.10.30.0/24` | `10.10.30.1` | `10.10.30.2 - 254`|
+| **40** | Recepción | Atención al público | `10.10.40.0/24` | `10.10.40.1` | `10.10.40.2 - 254` |
+| **50** | Equipos médicos | Aparatología conectada | `10.10.50.0/24` | `10.10.50.1` | `10.10.50.2 - 254` |
+| **60** | Invitados | Wi-Fi visitantes (Solo Internet) | `10.10.60.0/24` | `10.10.60.1` | `10.10.60.2 - 254` |
+| **70** | Servidores | Servicios centralizados | `10.10.70.0/24` | `10.10.70.1` | `10.10.70.2 - 254` |
 
 ---
 
